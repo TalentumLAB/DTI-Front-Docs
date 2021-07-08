@@ -1,3 +1,22 @@
+## Documentación de Front-end
+### DTI Talentum | Unidad de Desarrollo
+**Descripción:**  
+
+Se empieza la documentación de los procesos de desarrollo en Unity3D. Las actividades son las siguientes:
+
+
+| Actividad | Descripción | Progreso |
+| --------- | ----------- | -------- |
+| **Funciones vs Clases** | Se define el enfoque de trabajo para ReactJs. **Conclusión**: se define el uso de funciones | **[Finished](https://drive.google.com/file/d/1TWE9MPc-6f9fq_ertuKfus0HtyR1zFpi/view?usp=sharing)** |
+||||
+
+
+
+
+
+
+
+````
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TalentumLAB/DTI-Front-Docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
